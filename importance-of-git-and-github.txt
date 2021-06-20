@@ -1,0 +1,1 @@
+Git are cheap and easy to merge,it is one of the bigegest branching capabilities and it provides an isolated environment for evey changes you made while Githhub version control system allows seamless collaboration without compromising the integrity of the real project. 
